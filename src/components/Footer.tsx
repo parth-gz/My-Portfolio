@@ -50,9 +50,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Philosophy</h4>
             <p className="text-muted-foreground italic">
-              "Code is like humor. When you have to explain it, it's bad."
+              "Aaj Kamayenga toh kal baith kar khayenga. Haan meri jaan."
               <br />
-              <span className="text-sm">- Cory House</span>
+              <span className="text-sm">- Mahatma Gandhi</span>
             </p>
           </div>
         </div>
