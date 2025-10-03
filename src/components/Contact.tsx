@@ -72,7 +72,7 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "gaikwadparth2304@email.com", link: "mailto:gaikwadparth2304@email.com" },
+    { icon: Mail, label: "Email", value: "gaikwadparth2304@gmail.com", link: "mailto:gaikwadparth2304@gmail.com" },
     { icon: Phone, label: "Phone", value: "+91 9834701051", link: "tel:+919834701051" },
     { icon: MapPin, label: "Location", value: "Shirdi, India" },
   ];
