@@ -12,7 +12,7 @@ const Projects = () => {
     title: "Reddit Summary Hub",
     description:
       "A web app that fetches top posts from Reddit and generates concise AI-powered summaries for quick reading.",
-    tech: ["React", "Django", "PRAW", "Google Gemini API"],
+    tech: ["React", "Flask", "PRAW", "Google Gemini API"],
     image: redditSummaryHub,
     github: "https://github.com/parth-gz/reddit-summary-hub/",
     demo: "https://reddit-summary-hub.vercel.app/",
@@ -21,7 +21,7 @@ const Projects = () => {
     title: "Study Spark Genie",
     description:
       "RAG-based academic doubt solver that provides step-by-step solutions and explanations from uploaded PDFs and notes.",
-    tech: ["Python", "LangChain", "Flask", "React"],
+    tech: ["Python", "LangChain", "Flask", "React", "Google Gemini API"],
     image: studySparkGenie,
     github: "https://github.com/parth-gz/study-spark-genie/",
     demo: "https://studysparkgenie.vercel.app/",
