@@ -24,7 +24,7 @@ const Projects = () => {
     tech: ["Python", "LangChain", "Flask", "React", "Google Gemini API"],
     image: studySparkGenie,
     github: "https://github.com/parth-gz/study-spark-genie/",
-    demo: "https://studysparkgenie.vercel.app/",
+    demo: "https://study-spark-genie.vercel.app/",
   },
   /*
   {
